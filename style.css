@@ -1,0 +1,21 @@
+html {
+    color: rgb(120, 46, 46);
+    font-family: sans-serif;
+}
+
+  body {
+    margin: 0;
+}
+
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(133, 61, 61);
+}
+
+  h1 {
+    text-shadow: 10px 10px 0 rgb(144, 67, 67);
+    font-size: 100px;
+}
