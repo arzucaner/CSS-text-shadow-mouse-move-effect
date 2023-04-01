@@ -2,7 +2,7 @@
 
 ---
 
-## The CSS-text-shadow-mouse-move-effect project is a challenge project created by Wes Bos. The project involves creating a unique text-shadow effect that changes based on the position of the user's mouse.
+## The CSS Text Shadow Mouse Move Effect project is a challenge project created by Wes Bos. The project involves creating a unique text-shadow effect that changes based on the position of the user's mouse.
 
 The project requires a strong understanding of CSS properties such as text-shadow, transform, and transition, as well as knowledge of JavaScript and DOM manipulation to detect mouse position and update the CSS accordingly.
 
